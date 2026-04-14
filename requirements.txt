@@ -1,0 +1,10 @@
+# Django and related packages
+Django>=4.2,<5.0
+django-environ>=0.10.0
+
+# Database
+mysqlclient>=2.1.0
+
+# Optional: For production
+gunicorn>=20.1.0
+whitenoise>=6.0.0
