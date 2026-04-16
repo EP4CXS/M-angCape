@@ -16,45 +16,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
 - **Inheritance**: Child classes inherit from parent classes (`FoodItem` → `Meal`/`Drink`, `Order` → `OnlineOrder`)
 - **Polymorphism**: Methods behave differently depending on the class (e.g., `calculate_price()`)
 
-## Project Structure
-
-```
-food_ordering_system/
-├── manage.py
-├── settings.py              # Django settings with .env support
-├── .env                     # Environment variables
-├── foodapp/
-│   ├── models/
-│   │   ├── base_models.py   # Abstract base classes
-│   │   ├── food_model.py    # FoodItem, Meal, Drink
-│   │   ├── order_model.py   # Order, OrderItem, OnlineOrder
-│   │   └── cart_model.py    # Cart, CartItem
-│   ├── controllers/
-│   │   ├── food_controller.py
-│   │   ├── order_controller.py
-│   │   └── cart_controller.py
-│   ├── services/
-│   │   ├── food_service.py
-│   │   ├── order_service.py
-│   │   └── cart_service.py
-│   ├── templates/foodapp/
-│   │   ├── base.html
-│   │   ├── menu.html
-│   │   ├── cart.html
-│   │   ├── order_list.html
-│   │   ├── order_detail.html
-│   │   ├── order_form.html
-│   │   ├── order_confirmation.html
-│   │   ├── food_detail.html
-│   │   ├── food_form.html
-│   │   ├── checkout.html
-│   │   └── order_statistics.html
-│   └── urls.py
-├── templates/
-│   └── base.html           # Base template
-├── static/                  # Static files
-└── media/                   # Media files
-```
 
 ## Prerequisites
 
