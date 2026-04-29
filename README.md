@@ -4,7 +4,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
 
 ## Features
 
-- **Full CRUD Operations** for Food Items and Orders
 - **Shopping Cart** with add/remove/update functionality
 - **Order Management** with status tracking
 - **Admin Dashboard** with order statistics
