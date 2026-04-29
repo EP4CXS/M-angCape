@@ -34,12 +34,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
    python manage.py makemigrations
    python manage.py migrate
    ```
-
-7. **Create a Superuser** (optional)
-   ```bash
-   python manage.py createsuperuser
-   ```
-
 8. **Run the Development Server**
    ```bash
    python manage.py runserver
