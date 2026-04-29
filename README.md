@@ -15,14 +15,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
    venv\Scripts\activate  
    ```
 
-3. **Install dependencies**
-   ```bash
-   pip install django mysqlclient django-environ crispyforms-bootstrap4
-   ```
-
-
-5. **Create the Database**
-
    Log in to MySQL and create the database:
    ```sql
    CREATE DATABASE food_ordering_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
