@@ -9,14 +9,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
 - **Order Management** with status tracking
 - **Admin Dashboard** with order statistics
 
-## OOP Principles Demonstrated
-
-- **Abstraction**: Abstract base classes (`BaseModel`, `BaseOrder`) for common logic
-- **Encapsulation**: Protected/private attributes with helper methods (`_calculate_total()`, `_validate_cart()`)
-- **Inheritance**: Child classes inherit from parent classes (`FoodItem` → `Meal`/`Drink`, `Order` → `OnlineOrder`)
-- **Polymorphism**: Methods behave differently depending on the class (e.g., `calculate_price()`)
-
-
 ## Prerequisites
 
 - Python 3.8+
