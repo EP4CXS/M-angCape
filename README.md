@@ -25,21 +25,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
    pip install django mysqlclient django-environ crispyforms-bootstrap4
    ```
 
-4. **Configure Environment Variables**
-
-   Edit the `.env` file with your MySQL credentials:
-   ```env
-   SECRET_KEY=your-secret-key
-   DEBUG=True
-   ALLOWED_HOSTS=127.0.0.1,localhost
-   
-   DB_ENGINE=django.db.backends.mysql
-   DB_NAME=food_ordering_db
-   DB_USER=root
-   DB_PASSWORD=your-password
-   DB_HOST=127.0.0.1
-   DB_PORT=3306
-   ```
 
 5. **Create the Database**
 
