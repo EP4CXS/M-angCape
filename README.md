@@ -9,12 +9,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
 - **Order Management** with status tracking
 - **Admin Dashboard** with order statistics
 
-## Prerequisites
-
-- Python 3.8+
-- MySQL Server
-- pip
-
 ## Installation
 
 1. **Clone or download the project**
