@@ -10,8 +10,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
 
 ## Installation
 
-1. **Clone or download the project**
-
 2. **Create a virtual environment** (optional but recommended)
    ```bash
    python -m venv venv
