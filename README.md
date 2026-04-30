@@ -86,6 +86,3 @@ A complete Food Ordering System built with Django (Python) that follows **Object
 
 This project is for educational purposes.
 
-## Author
-
-Built with ❤️ using Django
