@@ -80,7 +80,6 @@ A complete Food Ordering System built with Django (Python) that follows **Object
 - **Database**: MySQL
 - **Frontend**: HTML5, CSS3, Bootstrap 5
 - **JavaScript**: jQuery (for AJAX)
-- **Environment**: django-environ
 
 ## License
 
