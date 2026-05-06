@@ -1,5 +1,5 @@
 
-A complete Food Ordering System built with Django (Python) that follows **Object-Oriented Programming (OOP)** principles and the **MVC (Model-View-Controller)** architecture.
+A complete Food Ordering System built with Django (Python) that follows **Object-Oriented Programming (OOP)** principles and the **MVC (Model-View-Controller)** architectures.
 
 ## Features
 
